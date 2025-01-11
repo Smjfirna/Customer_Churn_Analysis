@@ -12,7 +12,7 @@ This project focuses on analyzing customer churn data in telco companies using P
 ## Dashboard Preview
 1. Overview
 
-![Overview](dashboard/overview.png)
+![Overview]()
 2. Customer Demografis
 
 ![Customer Demografis](dashboard/customer_info.png)
