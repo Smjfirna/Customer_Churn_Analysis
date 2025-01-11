@@ -16,8 +16,12 @@ This project focuses on analyzing customer churn data in telco companies using P
 2. Customer Demografis
 
 ![Customer Demografis](dashboard/customer_info.png)
-4. ![Service]()
-5. ![Billing and Contract]()
+3. Service
+
+![Service](dashboard/service.png)
+4. Billing and Contract
+
+![Billing and Contract](dashboard/billing and contract.png)
 
 ## Dataset
 
