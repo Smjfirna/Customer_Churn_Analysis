@@ -5,7 +5,7 @@ This project focuses on analyzing customer churn data in telco companies using P
 
 ## Feature 
 * Interactive Dashboard: Visualizes key metrics related to customer churn
-* data cleaning dan preprocessing untuk mempersiapkan data menggunakan python pada code [Customer Churn Prediction]()
+* data cleaning dan preprocessing untuk mempersiapkan data menggunakan python pada code [Customer Churn Prediction](https://github.com/Smjfirna/Customer-churn-prediction/blob/main/Notebook.py)
 * Actionable Insights: Recommendations based on data-driven findings.
 * Comprehensive Documentation: Clear and structured explanation of each step.
 
