@@ -10,10 +10,14 @@ This project focuses on analyzing customer churn data in telco companies using P
 * Comprehensive Documentation: Clear and structured explanation of each step.
 
 ## Dashboard Preview
-1. ![Overview](dashboard/overview.png)
-2. ![Customer Demografis]()
-3. ![Service]()
-4. ![Billing and Contract]()
+1. Overview
+
+![Overview](dashboard/overview.png)
+2. Customer Demografis
+
+![Customer Demografis](dashboard/customer_info.png)
+4. ![Service]()
+5. ![Billing and Contract]()
 
 ## Dataset
 
