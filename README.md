@@ -21,7 +21,7 @@ This project focuses on analyzing customer churn data in telco companies using P
 ![Service](dashboard/service.png)
 4. Billing and Contract
 
-![Billing and Contract](dashboard/billing and contract.png)
+![Billing and Contract](dashboard/billingandcontract.png)
 
 ## Dataset
 
