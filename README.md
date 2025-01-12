@@ -41,6 +41,6 @@ Using the [kaggle.com dataset](https://www.kaggle.com/datasets/blastchar/telco-c
 8. customers with month to month contracts are more likely to chunrn with high average Monthly Charges. this will cause a decrease in revenue. Segment customers with high Monthly Charges and offer discounts or alternative service options and encourage customers with monthly contracts to switch to annual contracts through incentives such as discounts or gifts.
 9. Electronic check payment methods have a higher churn rate than other payment methods such as credit card or auto debit. Promote the autodebit payment method by giving cashback to reduce the churn of electronic check customers.
 
-## Relate ## Related Projects
+## Related Projects
 [Customer Churn Prediction](https://github.com/Smjfirna/Customer-churn-prediction/blob/main/Notebook.py)
 
