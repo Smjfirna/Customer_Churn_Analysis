@@ -42,5 +42,5 @@ Using the [kaggle.com dataset](https://www.kaggle.com/datasets/blastchar/telco-c
 9. Electronic check payment methods have a higher churn rate than other payment methods such as credit card or auto debit. Promote the autodebit payment method by giving cashback to reduce the churn of electronic check customers.
 
 ## Relate ## Related Projects
-[Cutomer Chunr Prediction]()
+[Customer Churn Prediction](https://github.com/Smjfirna/Customer-churn-prediction/blob/main/Notebook.py)
 
