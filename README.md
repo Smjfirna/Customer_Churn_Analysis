@@ -28,6 +28,7 @@ This project focuses on analyzing customer churn data in telco companies using P
 ![Billing and Contract](dashboard/billingandcontract.png)
 
 ## Dataset
+Using the [kaggle.com dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) then prepared and cleaned using python
 
 ## Insights and Recommendations
 1. Of the 7043 customers, 1869 with a percentage of 26.54% are categorized as churn. with a total revenue of 16 million. the level of churn customers needs to be considered because it has considerable potential to reduce significant revenue.
@@ -39,3 +40,7 @@ This project focuses on analyzing customer churn data in telco companies using P
 7. Streaming Movies attract customers, but churn is high if they do not use Internet Service. Focus on Streaming Movies customers who have high churn by offering special promos or packages.
 8. customers with month to month contracts are more likely to chunrn with high average Monthly Charges. this will cause a decrease in revenue. Segment customers with high Monthly Charges and offer discounts or alternative service options and encourage customers with monthly contracts to switch to annual contracts through incentives such as discounts or gifts.
 9. Electronic check payment methods have a higher churn rate than other payment methods such as credit card or auto debit. Promote the autodebit payment method by giving cashback to reduce the churn of electronic check customers.
+
+## Relate ## Related Projects
+[Cutomer Chunr Prediction]()
+
